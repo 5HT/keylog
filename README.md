@@ -19,11 +19,6 @@ Words CSV header:
 
 	Name,TimestampBegin,Duration,Word
 
-Prerequisites
--------------
-
-* Visual C++ Redistributable Packages for Visual Studio 2013
-
 Usage
 -----
 
